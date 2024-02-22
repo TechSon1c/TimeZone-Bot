@@ -39,4 +39,4 @@ client.on("messageCreate", async (message) => {
 });
 
 
-client.login("MTIwOTIxNzc1MDI4NzkwODk1Ng.Gutp53.1N8LpYYDUfBxp3EourXWoPJit_UJ-L_Dt5tU24");
+client.login("Your token here");
